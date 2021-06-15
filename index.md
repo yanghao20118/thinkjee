@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Thinkjee框架
 
-Thinkjee框架是一款微服务极速开发框架平台，集Springcloud Alibaba
+Thinkjee框架是一款微服务极速开发框架平台，集Springcloud Alibaba、Nacos、Sentinel、Seata、Zipkin、Mycat、Docker等优势为一体微服务平台开发架构。
 
 ### Markdown
 
