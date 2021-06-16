@@ -1,6 +1,6 @@
 ## Thinkjee框架介绍
 
-Thinkjee框架是一款集Springcloud Alibaba、Nacos、Sentinel、Seata、Zipkin、Mycat、Docker容器服务等优势为一体的一站式微服务极速开发平台框架解决方案。
+Thinkjee框架是一款集Springcloud Alibaba、Nacos、Sentinel、Seata、Zipkin、Mycat、Docker容器、Vue前后端分离等居多优势为一体的一站式微服务极速开发平台框架解决方案。
 
 ### Markdown
 
